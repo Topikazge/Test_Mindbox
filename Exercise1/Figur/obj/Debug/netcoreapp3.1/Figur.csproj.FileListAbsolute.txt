@@ -1,0 +1,10 @@
+C:\Users\LordJ\OneDrive\Документы\GitHub\Figur\bin\Debug\netcoreapp3.1\Figur.deps.json
+C:\Users\LordJ\OneDrive\Документы\GitHub\Figur\bin\Debug\netcoreapp3.1\Figur.dll
+C:\Users\LordJ\OneDrive\Документы\GitHub\Figur\bin\Debug\netcoreapp3.1\Figur.pdb
+C:\Users\LordJ\OneDrive\Документы\GitHub\Figur\obj\Debug\netcoreapp3.1\Figur.csproj.AssemblyReference.cache
+C:\Users\LordJ\OneDrive\Документы\GitHub\Figur\obj\Debug\netcoreapp3.1\Figur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LordJ\OneDrive\Документы\GitHub\Figur\obj\Debug\netcoreapp3.1\Figur.AssemblyInfoInputs.cache
+C:\Users\LordJ\OneDrive\Документы\GitHub\Figur\obj\Debug\netcoreapp3.1\Figur.AssemblyInfo.cs
+C:\Users\LordJ\OneDrive\Документы\GitHub\Figur\obj\Debug\netcoreapp3.1\Figur.csproj.CoreCompileInputs.cache
+C:\Users\LordJ\OneDrive\Документы\GitHub\Figur\obj\Debug\netcoreapp3.1\Figur.dll
+C:\Users\LordJ\OneDrive\Документы\GitHub\Figur\obj\Debug\netcoreapp3.1\Figur.pdb

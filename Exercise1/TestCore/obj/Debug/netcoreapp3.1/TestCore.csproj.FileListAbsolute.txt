@@ -1,0 +1,17 @@
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\obj\Debug\netcoreapp3.1\TestCore.csproj.AssemblyReference.cache
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\obj\Debug\netcoreapp3.1\TestCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\obj\Debug\netcoreapp3.1\TestCore.AssemblyInfoInputs.cache
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\obj\Debug\netcoreapp3.1\TestCore.AssemblyInfo.cs
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\obj\Debug\netcoreapp3.1\TestCore.csproj.CoreCompileInputs.cache
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\bin\Debug\netcoreapp3.1\TestCore.exe
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\bin\Debug\netcoreapp3.1\TestCore.deps.json
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\bin\Debug\netcoreapp3.1\TestCore.runtimeconfig.json
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\bin\Debug\netcoreapp3.1\TestCore.runtimeconfig.dev.json
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\bin\Debug\netcoreapp3.1\TestCore.dll
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\bin\Debug\netcoreapp3.1\TestCore.pdb
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\bin\Debug\netcoreapp3.1\Figur.dll
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\bin\Debug\netcoreapp3.1\Figur.pdb
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\obj\Debug\netcoreapp3.1\TestCore.csproj.CopyComplete
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\obj\Debug\netcoreapp3.1\TestCore.dll
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\obj\Debug\netcoreapp3.1\TestCore.pdb
+C:\Users\LordJ\OneDrive\Документы\GitHub\TestCore\obj\Debug\netcoreapp3.1\TestCore.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7jfTRTX9U9oyIJ42VFCP3b3dUFgHEZplB3t9q5at8SdW2XscpM8DPgs3b6Ydro1N6VfU+w0R8KwKrqtzBvSmng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LordJ\\OneDrive\\Документы\\GitHub\\Test_Mindbox\\Exercise1\\TestCore\\TestCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LordJ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
